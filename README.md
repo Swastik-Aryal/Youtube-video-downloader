@@ -1,4 +1,4 @@
-This is an app that allows you to download youtube vides at the highest possible resolution.
+This is an app that allows you to download youtube videos at the highest possible resolution.
 
 Before using, use the command line
 
