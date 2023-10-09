@@ -1,11 +1,23 @@
+# About
+
 This is an app that allows you to download youtube videos at the highest possible resolution.
 
-Before using, use the command line
 
-"pip install Tk"               ( To download Tkinter module )
+## Installation
 
-on your terminal. Then after that use
+Navigate to the directory where you want to save this file.
 
-"pip install pytube"          (To download pytube module)
+Clone this repo with 
 
+```bash
+  git clone https://github.com/Swastik-Aryal/Youtube-video-downloader.git
+```
+    
+## Requirements
+
+Install the required modules using
+
+```bash
+  pip install Tk pytube
+```
 
